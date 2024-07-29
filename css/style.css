@@ -1,0 +1,35 @@
+#one,#two,#three,#four{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 20px;
+}
+.onei,.twoi,.threei,.fouri{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: white;
+    text-align: center;
+}
+.onet,.twot,.threet{
+    width: 100px;
+    height: 10px;
+    border: 1px solid black;
+    margin-top: 40px;
+}
+.row1{
+    display: flex;
+}
+.row2{
+    margin-top: 50px;
+    margin-left: 260px;
+}
+button{
+    width: 75px;
+    height: 30px;
+    background-color: lavender;
+    border: 1px solid lavender;
+    border-radius: 5px;
+}
